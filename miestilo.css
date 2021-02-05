@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(227, 235, 232);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    height: 50px;
+    background: burlywood;
+    color: cadetblue;
+}
+header label{
+    font-size: 30px;
+    cursor: pointer;
+    display: none;
+}
+btn-menu{
+    display: none;
+}
